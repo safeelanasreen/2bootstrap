@@ -5,7 +5,7 @@
 
 }
 .card-head{
-    height:100px;
+    height:150px;
 }
 .row{
     
@@ -13,6 +13,7 @@
  } 
 *{
     box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
 }
 .container{
     border: 1px solid rgb(224, 211, 211);
